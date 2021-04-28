@@ -1,3 +1,3 @@
-tables: lfa1.
-select * from lfa1 order by name1.
-write: / lfa1-name1, ‘ ‘, lfa1-lifnr
+tables: lfb1.
+select * from lfb1 order by name1.
+write: / lfb1-name1, ‘ ‘, lfb1-lifnr
